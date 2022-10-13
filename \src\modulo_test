@@ -1,9 +1,0 @@
-from modulo_funciones import *
-
-def main():
-    datos = lee_fichero('./data/********.csv')
-    print(datos[:3])
-    
-       
-if __name__== "__main__" : 
-    main()
