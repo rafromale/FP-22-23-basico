@@ -1,0 +1,4 @@
+nombre,edad,peso,fecha,genero,tiene_empleo
+Pepe,50,85.5,22/12/2022,hombre,0
+Luis,25,66.2,31/01/2021,1,hombre,1
+Ana,22,20,55.5,22/02/2021,mujer,1
