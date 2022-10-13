@@ -1,0 +1,1 @@
+# Funciones propias necesarias para el proyecto
